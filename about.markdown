@@ -4,34 +4,13 @@ title: About
 permalink: /about/
 ---
 
-## About Me
+# Hi I'm Mesut 👋
 
-Hi! I'm a programmer passionate about building efficient and elegant software solutions.
+I am an IT professional working mostly with Microsoft 365, Intune and Azure. I enjoy designing, building, and experimenting with infrastructure in my self-hosted Linux homelab.
 
-This blog is where I share my thoughts and experiences on software development, with a focus on:
+Most of my projects are currently private while they evolve and are being documented.
+Projects will be published here once they are documented and sanitized.
 
-- **Django & Python** - Backend development and best practices
-- **Performance Optimization** - Making applications faster and more efficient
-- **Web Technologies** - Modern web development techniques
-- **Database Design** - Efficient data modeling and querying
-
-## Why This Blog?
-
-I created this blog to document my learning journey and share knowledge with the developer community. Whether you're a beginner or an experienced developer, I hope you'll find something useful here.
-
-## Get in Touch
-
-Feel free to connect with me on:
-
-{% include social-icons.html %}
-
-## About This Site
-
-This site is built with Jekyll and deployed on GitHub Pages. It features:
-
-- Dark theme for comfortable reading
-- Atkinson Hyperlegible font for accessibility
-- Syntax highlighting for code examples
-- Responsive design for all devices
-
-Thanks for visiting!
+Beyond IT, I am passionate about family and music:  
+- **Family:** devoted father and husband  
+- **Music:** play and teach the bağlama (Turkish folk instrument)

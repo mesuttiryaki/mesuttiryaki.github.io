@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 # About
 # -----------------------------------------------------------------------------
 
-about: "IT professional focused on Microsoft 365, Intune and Azure. Selfhosted Proxmox - Linux only Homelab tinkerer."
+about: "IT professional focused on Microsoft 365, Intune and Azure. Proxmox - Linux only Homelab tinkerer."
 
 # -----------------------------------------------------------------------------
 # Social Media
@@ -40,7 +40,7 @@ social:
   #  link: https://twitter.com/your_twitter
   #  name: Twitter / X
   - icon: fa-brands fa-linkedin
-    link: https://linkedin.com/in/your_linkedin
+    link: https://www.linkedin.com/in/mesut-tiryaki/
     name: LinkedIn
   #- icon: fa-brands fa-telegram
   #  link: https://t.me/your_telegram

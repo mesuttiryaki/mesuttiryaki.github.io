@@ -2,16 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Your Name
-first_name: Your
-last_name: Name
-greeting: "Hi, I'm Your Name!"
-tagline: "Just a programmer"
-email: your-email@example.com
+title: Mesut Tiryaki
+first_name: Mesut
+last_name: Tiryaki
+greeting: "Hi, I'm Mesut Tiryaki"
+tagline: "Build - Break - Learn - Improve"
+email: mesut@tiryakim.nl
 
 description: >- # the ">" symbol means to ignore newlines
-  Personal blog - A programmer sharing thoughts on software development,
-  Python, and web technologies.
+  IT professional focused on Microsoft 365, Intune and Azure. Selfhosted Proxmox - Linux only Homelab tinkerer.
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a>.
@@ -20,16 +19,15 @@ footer_text: >
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: "https://alihtt.github.io" # the base hostname & protocol for your site
-baseurl: "/al-minimal" # the subpath of your site, e.g. /blog/. Leave blank for root
+url: "https://mesuttiryaki.githbu.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 
 # -----------------------------------------------------------------------------
 # About
 # -----------------------------------------------------------------------------
 
 about: >-
-  I'm a programmer passionate about Python & Django.
-  I build efficient web applications and share my knowledge through this blog.
+  IT professional focused on Microsoft 365, Intune and Azure. Selfhosted Proxmox - Linux only Homelab tinkerer.
 
 # -----------------------------------------------------------------------------
 # Social Media
@@ -37,19 +35,19 @@ about: >-
 
 social:
   - icon: fa-brands fa-github
-    link: https://github.com/yourusername
+    link: https://github.com/mesuttiryaki
     name: GitHub
-  - icon: fa-brands fa-x-twitter
-    link: https://twitter.com/your_twitter
-    name: Twitter / X
+  #- icon: fa-brands fa-x-twitter
+  #  link: https://twitter.com/your_twitter
+  #  name: Twitter / X
   - icon: fa-brands fa-linkedin
     link: https://linkedin.com/in/your_linkedin
     name: LinkedIn
-  - icon: fa-brands fa-telegram
-    link: https://t.me/your_telegram
-    name: Telegram
+  #- icon: fa-brands fa-telegram
+  #  link: https://t.me/your_telegram
+  #  name: Telegram
   - icon: fa-solid fa-envelope
-    link: mailto:your.email@example.com
+    link: mailto:mesut@tiryakim.nl
     name: Email
 
 # -----------------------------------------------------------------------------
@@ -61,8 +59,8 @@ navigation:
     url: /articles
   - title: Tags
     url: /tags
-  - title: Projects
-    url: /projects
+  #- title: Projects
+  #  url: /projects
   - title: About
     url: /about
 
@@ -70,7 +68,7 @@ navigation:
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-Z76E1V534S # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 # disqus_shortname: # your disqus shortname (uncomment to enable comments)
 
 # -----------------------------------------------------------------------------

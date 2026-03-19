@@ -26,8 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 # About
 # -----------------------------------------------------------------------------
 
-about: >-
-  IT professional focused on Microsoft 365, Intune and Azure. Selfhosted Proxmox - Linux only Homelab tinkerer.
+about: "IT professional focused on Microsoft 365, Intune and Azure. Selfhosted Proxmox - Linux only Homelab tinkerer."
 
 # -----------------------------------------------------------------------------
 # Social Media

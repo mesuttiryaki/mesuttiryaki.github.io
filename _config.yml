@@ -10,7 +10,7 @@ tagline: "Build - Break - Learn - Improve"
 email: mesut@tiryakim.nl
 
 description: >- # the ">" symbol means to ignore newlines
-  IT professional focused on Microsoft 365, Intune and Azure. Selfhosted Proxmox - Linux only Homelab tinkerer.
+  IT professional with a focus on M365, Intune, Azure and Linux & Proxmos Homelab enthusiast.
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a>.
@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 # About
 # -----------------------------------------------------------------------------
 
-about: "IT professional focused on Microsoft 365, Intune and Azure. Proxmox - Linux only Homelab tinkerer."
+about: "IT professional | Microsoft 365, Intune & Azure | Linux & Proxmox Homelab Enthusiast"
 
 # -----------------------------------------------------------------------------
 # Social Media

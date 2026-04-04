@@ -4,34 +4,23 @@ title: About
 permalink: /about/
 ---
 
-## About Me
+Hi, I'm Mesut. I am an IT professional specializing in M365, Intune and Azure. 
+I also enjoy designing, building and experimenting in my personal M365 tenant and my selfhosted Proxmox lab.
 
-Hi! I'm a programmer passionate about building efficient and elegant software solutions.
+Beyond IT, I am passionate about family and music:
 
-This blog is where I share my thoughts and experiences on software development, with a focus on:
+- **Family**: devoted father and husband
+- **Music**: play and teach the bağlama (Turkish folk instrument)
 
-- **Django & Python** - Backend development and best practices
-- **Performance Optimization** - Making applications faster and more efficient
-- **Web Technologies** - Modern web development techniques
-- **Database Design** - Efficient data modeling and querying
+## About this site
+
+This site is a technical documentation for my three independent workstreams: 
+- Azure Infrastructure Administration (AZ-104 mastery via Terraform)
+- Modern Endpoint Management (M365/Intune stuff)
+- Self-hosted Linux virtualization on Proxmox.
 
 ## Why This Blog?
 
-I created this blog to document my learning journey and share knowledge with the developer community. Whether you're a beginner or an experienced developer, I hope you'll find something useful here.
-
-## Get in Touch
-
-Feel free to connect with me on:
-
-{% include social-icons.html %}
-
-## About This Site
-
-This site is built with Jekyll and deployed on GitHub Pages. It features:
-
-- Dark theme for comfortable reading
-- Atkinson Hyperlegible font for accessibility
-- Syntax highlighting for code examples
-- Responsive design for all devices
+I created this blog to document my experiences. Whether you're a beginner or an experienced developer, I hope you'll find something useful here.
 
 Thanks for visiting!

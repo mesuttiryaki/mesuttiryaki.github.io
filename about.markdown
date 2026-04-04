@@ -15,9 +15,9 @@ Beyond IT, I am passionate about family and music:
 ## About this site
 
 This site is a technical documentation for my three independent workstreams: 
-- Azure Infrastructure Administration (AZ-104 mastery via Terraform)
+- Azure Infrastructure Administration (AZ-104 mastery)
 - Modern Endpoint Management (M365/Intune stuff)
-- Self-hosted Linux virtualization on Proxmox.
+- Self-hosted virtualization on Proxmox.
 
 ## Why This Blog?
 
